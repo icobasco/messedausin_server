@@ -1,0 +1,32 @@
+[
+    {
+        "diocesi_id":"001",
+        "diocesi_name":"Saluzzo",
+        "web":"https://www.diocesisaluzzo.it/",
+        "telefono":"0175 42360",
+        "patrono":"S. Chiaffredo",
+        "posizione":
+            {
+                "indirizzo":"C.so Piemonte, 56",
+                "cap":"12037",
+                "citta":"Saluzzo",
+                "lat": 44.6470443,
+                "lon": 7.4867909
+            }
+    },
+    {
+        "diocesi_id":"002",
+        "diocesi_name":"Cuneo e Fossano",
+        "web":"https://www.diocesicuneofossano.it/",
+        "telefono":"via Amedeo Rossi 28",
+        "patrono":"S. Michele e S. Giovenale",
+        "posizione":
+            {
+                "indirizzo":"Via Amedeo Rossi, 28",
+                "cap":"12100",
+                "citta":"Cuneo",
+                "lat": 44.3913734,
+                "lon": 7.5474611
+            }
+    }    
+]
